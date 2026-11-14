@@ -23,7 +23,7 @@ This is my first C++ project, and my goal was to get used to C++ syntax from the
 - I can declare multiple variables in a single line as long as they share the same type, for example `int width {0}, length {0};`.
 - Every statement must end with a semicolon `;`, which is new coming from Python.
 
-📁 [View project](01_room_area)
+📁 [View project](01_room_area/main.cpp)
 
 ### 02 - [Project Name]
 
