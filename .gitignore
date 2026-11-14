@@ -1,0 +1,24 @@
+# CodeLite project and workspace files
+*.project
+*.workspace
+*.mk
+Makefile
+.codelite/
+compile_flags.txt
+compile_commands.json
+
+# Build output
+Debug/
+Release/
+build-*/
+*.o
+*.o.d
+*.out
+
+# macOS
+.DS_Store
+
+# clangd (code completion)
+.cache/
+.clangd
+.clang-format
