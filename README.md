@@ -11,13 +11,13 @@ I'm learning through the Udemy course <b>Beginning C++ Programming - From Beginn
 
 ## 🛠️ Projects
 
-### 🧹 01 - Carpet Cleaning Estimator
+### 01 - Carpet Cleaning Estimator
 
 [Write about this project here: what it does, what you learned, and anything that challenged you.]
 
 📁 [View project](01-carpet-cleaning-estimator)
 
-### 🔢 02 - [Project Name]
+### 02 - [Project Name]
 
 [Write about this project here.]
 
